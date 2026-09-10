@@ -1,0 +1,21 @@
+# Local credentials; only empty configuration templates may be committed.
+.env
+.env.*
+!.env.example
+*_api_key.txt
+*tokens.yaml
+*.pem
+*.key
+/private/
+
+# Local Python environments and generated files.
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+.vscode/
+.idea/
+.DS_Store

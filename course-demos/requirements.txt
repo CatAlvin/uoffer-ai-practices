@@ -1,0 +1,4 @@
+# Session 1: offline mock + OpenAI / DeepSeek
+python-dotenv==1.2.3
+openai==3.11.0
+# Optional Anthropic provider: install anthropic separately.
