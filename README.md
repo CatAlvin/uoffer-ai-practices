@@ -2,7 +2,7 @@
 
 Uoffer AI training practices — Bohan Wu
 
-本仓库用于提交 Uoffer AI 课程作业，目前包含 **Session 1：诗词聊天机器人**。
+本仓库用于提交 Uoffer AI 课程作业，目前包含 Session 1 和 Session 3 作业。
 
 ## 作业入口
 
@@ -13,6 +13,8 @@ Uoffer AI training practices — Bohan Wu
 | Task 2：实现架构图 | [poem-bot-implementation.md](practices/session-01/poem-bot-implementation.md) |
 | 操作说明与验证记录 | [Session 1 README](practices/session-01/README.md) |
 | 课程练习说明 | [session-01-poem-bot.md](practices/session-01/session-01-poem-bot.md) |
+| Session 3 练习 A | [同一快照，两类读者](practices/session-03/exercise-a/README.md) |
+| Session 3 练习 B | [Single 与 Map-Reduce 比较](practices/session-03/exercise-b/README.md) |
 
 实现保持“输入 → 清洗 → Prompt → 共享 `call_llm_safe()` → 输出诗句”的链路。支持本地连续对话、`--once`、强制离线 `--mock` 和静态架构图输出 `--diagram`。
 

@@ -19,3 +19,9 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+
+# Session 3 generated run files; keep only the empty directory markers.
+practices/session-03/exercise-a/run-results/*
+!practices/session-03/exercise-a/run-results/.gitkeep
+practices/session-03/exercise-b/run-results/*
+!practices/session-03/exercise-b/run-results/.gitkeep
